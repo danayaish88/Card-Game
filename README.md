@@ -7,6 +7,7 @@ the card at the back of the list. Each card has a certain numerical value. When 
 The task is to find the maximum value that can be accumulated assuming you start the first move. 
 Also the sequence of moves you made to get that maximum value. Note that your opponent is as smart as you are, i.e. your opponent will always take the card that is more profitable to him/her. You can assume that N is always even.
 
+Note: this project is solved using dynamic programming.
 الرجاء ملاحظة ان البطاقات جميعها مكشوفة وقيمها معروفة للطرفين ولكن في كل مرة اللاعب لا يستطيع الا ان يسحب كرت من المقدمة أو من المؤخرة فقط
 
 ## Input Format
